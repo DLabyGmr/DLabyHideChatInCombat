@@ -1,6 +1,7 @@
-## Interface: 110002
+## Interface: 110200
 ## Author: DLabyGmr
 ## Notes: Automatically hides chat in combat
 ## Title: DLabyHideChatInCombat
 
 DLabyHideChatInCombat.lua
+
